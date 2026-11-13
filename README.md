@@ -16,7 +16,7 @@ see [docs/CREATOR-AND-PROJECT-IDENTITY.md](docs/CREATOR-AND-PROJECT-IDENTITY.md)
 ## Download and Install
 
 Windows users can download the current installer from the
-[latest GitHub release](https://github.com/leomabuku/PROJECT/releases/latest):
+[latest GitHub release](https://github.com/leomabuku/TongaLang/releases/latest):
 
 - `TongaLang-Setup-0.2.0.exe` installs the IDE for the current user without
   administrator access.
