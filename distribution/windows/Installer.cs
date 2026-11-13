@@ -111,7 +111,7 @@ internal static class TongaLangInstaller
             key.SetValue("DisplayIcon", Path.Combine(target, "TongaLang.exe") + ",0");
             key.SetValue("UninstallString", "\"" + Path.Combine(target, "TongaLang-Uninstall.exe") + "\"");
             key.SetValue("QuietUninstallString", "\"" + Path.Combine(target, "TongaLang-Uninstall.exe") + "\" --silent");
-            key.SetValue("URLInfoAbout", "https://github.com/leomabuku/PROJECT");
+            key.SetValue("URLInfoAbout", "https://leomabuku.me/work/tongalang/");
             key.SetValue("NoModify", 1, RegistryValueKind.DWord);
             key.SetValue("NoRepair", 1, RegistryValueKind.DWord);
         }
