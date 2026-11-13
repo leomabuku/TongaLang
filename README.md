@@ -10,6 +10,9 @@ beginner programming education at The Copperbelt University.
 
 Official project page: [leomabuku.me/work/tongalang](https://leomabuku.me/work/tongalang/).
 
+For the project's authorship, naming, attribution and public-facing description,
+see [docs/CREATOR-AND-PROJECT-IDENTITY.md](docs/CREATOR-AND-PROJECT-IDENTITY.md).
+
 ## Download and Install
 
 Windows users can download the current installer from the
