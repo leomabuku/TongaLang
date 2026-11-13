@@ -367,7 +367,7 @@ class TongaLangGUI:
         brand_text = tk.Frame(brand)
         brand_text.pack(side="left", fill="x", expand=True)
         tk.Label(brand_text, text="TongaLang", font=("Segoe UI", 15, "bold"), anchor="w").pack(fill="x")
-        tk.Label(brand_text, text="Interpreter IDE", anchor="w").pack(fill="x")
+        tk.Label(brand_text, text="Created by Leo Mabuku", anchor="w").pack(fill="x")
 
         for view in ("Editor", "Settings", "About"):
             button = tk.Button(
