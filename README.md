@@ -2,9 +2,13 @@
 
 <img src="assets/branding/tongalang-logo.png" alt="TongaLang logo" width="128">
 
+**Created by [Leo Mabuku](https://leomabuku.me), a Zambian software developer.**
+
 TongaLang is a minimal interpreted educational programming language using
 Tonga-derived keywords. It is built in Python with PLY and is designed for
 beginner programming education at The Copperbelt University.
+
+Official project page: [leomabuku.me/work/tongalang](https://leomabuku.me/work/tongalang/).
 
 ## Download and Install
 
