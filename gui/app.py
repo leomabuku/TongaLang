@@ -2044,7 +2044,7 @@ class TongaLangGUI:
             f"Version: {__version__}\n\n"
             "Project Author\n"
             "Created by: Leo Mabuku\n"
-            "Website: https://leomabuku.me/tongalang/\n"
+            "Website: https://leomabuku.me/work/tongalang/\n"
             "Source: https://github.com/leomabuku/TongaLang\n\n"
             "Academic Project Details\n"
             "Project: Implementation of a Programming Language Using Local Language\n"
