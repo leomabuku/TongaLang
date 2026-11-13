@@ -6,7 +6,7 @@ builds use the same lexer, parser, interpreter and Tkinter IDE.
 
 ## Windows installer
 
-1. Open the [latest TongaLang release](https://github.com/leomabuku/PROJECT/releases/latest).
+1. Open the [latest TongaLang release](https://github.com/leomabuku/TongaLang/releases/latest).
 2. Download `TongaLang-Setup-0.2.0.exe` and its `.sha256` file.
 3. Double-click the setup file and select **Install TongaLang**.
 4. Open TongaLang from the Start Menu or the optional Desktop shortcut.
@@ -50,7 +50,7 @@ Requirements:
 Build from a clean clone:
 
 ```powershell
-git clone https://github.com/leomabuku/PROJECT.git TongaLang
+git clone https://github.com/leomabuku/TongaLang.git TongaLang
 cd TongaLang
 py -3 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
@@ -97,7 +97,7 @@ sudo pacman -S git python tk
 Then install TongaLang for the current user:
 
 ```bash
-git clone https://github.com/leomabuku/PROJECT.git TongaLang
+git clone https://github.com/leomabuku/TongaLang.git TongaLang
 cd TongaLang
 chmod +x distribution/linux/install.sh
 ./distribution/linux/install.sh
@@ -128,7 +128,7 @@ Linux bundles must be built on a compatible Linux system. After installing the
 distribution packages shown above:
 
 ```bash
-git clone https://github.com/leomabuku/PROJECT.git TongaLang
+git clone https://github.com/leomabuku/TongaLang.git TongaLang
 cd TongaLang
 python3 -m venv .venv
 source .venv/bin/activate
