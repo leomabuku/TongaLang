@@ -266,7 +266,7 @@ class TongaLangGUI:
         self._editor_viewport = (0.0, 0.0)
         self._restore_editor_viewport_on_show = False
 
-        self.root.title("TongaLang Educational IDE")
+        self.root.title("TongaLang IDE · Created by Leo Mabuku")
         self.root.geometry("1280x760")
         self.root.minsize(980, 620)
         self._load_brand_images()
@@ -2043,7 +2043,9 @@ class TongaLangGUI:
             "About TongaLang\n\n"
             f"Version: {__version__}\n\n"
             "Project Author\n"
-            "Author: Leo Mabuku\n\n"
+            "Created by: Leo Mabuku\n"
+            "Website: https://leomabuku.me/tongalang/\n"
+            "Source: https://github.com/leomabuku/TongaLang\n\n"
             "Academic Project Details\n"
             "Project: Implementation of a Programming Language Using Local Language\n"
             "Course: CS400 Project Seminars\n"
